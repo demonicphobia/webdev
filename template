@@ -1,0 +1,15 @@
+
+**Assuming your Sublime Text 3 was located in the "C:\Program Files\Sublime Text 3" directory**
+
+1. In Git Bash copy paste and run:
+echo 'alias subl="/C/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bashrc
+
+
+2. Close Git Bash and Open it again.
+
+
+3. In Git bash type:
+
+subl
+
+
